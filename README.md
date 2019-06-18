@@ -1,2 +1,2 @@
 # RPA
-Robotics process autoation
+Robotics process automation
