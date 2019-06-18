@@ -1,6 +1,3 @@
-
-
-
 Welcome to intro file
 
 1) Advanced RPA developer certification
